@@ -1,0 +1,24 @@
+
+
+#principal{
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset{
+    margin-bottom: 10px;
+}
+
+legend{
+    border: solid 1px lightseagreen;
+    padding: 5px;
+    font-weight: bold;
+    background: lightseagreen;
+}
+
+body{
+    background: url(https://i.pinimg.com/474x/83/13/e5/8313e5ae4e7994a141eceebd08e47edf.jpg);
+    background-size: 100%;
+}
